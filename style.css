@@ -153,9 +153,10 @@
     display: block;
     height: auto;
     width: 100%;
+    
     .food-card-container{
         margin-left: 60px;
-        width: 70%;
+        width: 60%;       
     }
 }
 .buttons a{
